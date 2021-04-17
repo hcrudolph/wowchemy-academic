@@ -33,7 +33,7 @@ education:
   - course: Cyber Security Professional (IHK)
     institution: IHK Köln
     year: 2019
-  - course: B.Eng. Coputer Science and Telecommunications
+  - course: B.Eng. Computer Science and Telecommunications
     institution: Hochschule für Telekommunikation Leipzig, University of Applied Sciences
     year: 2016
 
