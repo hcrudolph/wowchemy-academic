@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Hans Christian Rudolph # Website name
-baseurl: 'hcrudolph.com' # Website URL
+baseurl: '' # Website URL
 copyright: '© {year} Hans Christian Rudolph' # Footer text, e.g. '© {year} Me'
 
 ############################
