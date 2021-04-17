@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Hans Christian Rudolph
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Technical Director
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: wenovator LLC
+  url: https://wenovator.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
+- Security Engineering
+- Security Automation
+- Formal Verification
+- Functional Programming
 - Computational Linguistics
-- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Eng. IT Security and Forensics
+    institution: Hochschule Wismar, University of Applied Sciences
+    year: 2020
+  - course: Cyber Security Professional (IHK)
+    institution: IHK Köln
+    year: 2019
+  - course: B.Eng. Coputer Science and Telecommunications
+    institution: Hochschule für Telekommunikation Leipzig, University of Applied Sciences
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,22 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: '#contact'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/hcrudolph
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/hcrudolph
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -70,8 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hans Christian Rudolph is an information security professional in the field of telecommunications. He is a former contributor to both 3GPP and GSMA security groups and currently works for wenovator, a cyber security company focussed on communications and related emerging technologies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Besides that, he blogs about his <a href="https://hans-around.tokyo"> life in Tokyo</a>.

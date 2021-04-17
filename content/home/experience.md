@@ -22,24 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Technical Director
+    company: wenovator LLC
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Tokyo, Japan
+    date_start: '2020-09-16'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+
+  - title: Section Manager Fraud Intelligence & Platforms, Security Architect
+    company: Rakuten Mobile, Inc.
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Tokyo, Japan
+    date_start: '2019-07-01'
+    date_end: '2020-09-15'
+
+  - title: Junior Security Expert
+    company: T-Systems International GmbH
+    company_url: ''
+    location: Bonn, Germany
+    date_start: '2016-11-01'
+    date_end: '2019-06-30'
+
+  - title: Application Design, Testing, and Development
+    company: T-Systems International GmbH
+    company_url: ''
+    location: Leipzig, Germany
+    date_start: '2013-11-01'
+    date_end: '2016-10-30'
+
 ---

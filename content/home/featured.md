@@ -1,6 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
+active: false
 widget: featured
 
 # This file represents a page section.
@@ -34,3 +35,4 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+

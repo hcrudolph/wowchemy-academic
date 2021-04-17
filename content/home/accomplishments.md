@@ -1,6 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
+active: false
 widget: accomplishments
 
 # This file represents a page section.
@@ -48,3 +49,4 @@ item:
   title: 'Object-Oriented Programming in R: S3 and R6 Course'
   url: ""
 ---
+
