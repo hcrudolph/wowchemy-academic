@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-academic
+module github.com/hcrudolph/hcrudolph.com
 
 // +heroku goVersion go1.15
 go 1.15
