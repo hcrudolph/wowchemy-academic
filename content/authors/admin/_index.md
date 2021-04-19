@@ -47,7 +47,7 @@ social:
   link: '#contact'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/hcrudolph
+  link: https://www.linkedin.com/in/hcrudolph
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/hcrudolph
