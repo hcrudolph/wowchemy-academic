@@ -6,12 +6,12 @@ title: Hans Christian Rudolph
 superuser: true
 
 # Role/position/tagline
-role: Technical Director
+role: Senior Security Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: wenovator LLC
-  url: https://wenovator.com/
+- name: Deloitte Tohmatsu Cyber LLC
+  url: https://www2.deloitte.com/jp/en/pages/about-deloitte/topics/about-deloitte.html
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -63,9 +63,9 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Hans Christian Rudolph is an information security professional in the field of telecommunications. He is a former contributor to both 3GPP and GSMA security groups and currently works for wenovator, a cyber security company focussed on communications and related emerging technologies.
+Hans Christian Rudolph is an cyber security professional specializing in secure communications and related technologies. He is a former contributor to industry bodies such as 3GPP and GSMA and currently works as a Senior Consultant at Deloitte.
 
-Besides that, he blogs about his <a href="https://hans-around.tokyo"> life in Tokyo</a>.
+Besides that, he blogs about <a href="https://hans-around.tokyo">life in Tokyo</a>.

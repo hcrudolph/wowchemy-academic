@@ -22,30 +22,36 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Consultant
+    company: Deloitte Tohmatsu Cyber LLC
+    company_url: 'https://www2.deloitte.com/jp/en/pages/about-deloitte/topics/about-deloitte.html'
+    location: Tokyo, Japan
+    date_start: '2021-07-01'
+    date_end: ''
   - title: Technical Director
-    company: wenovator LLC
-    company_url: ''
+    company: wenovator LLC (acquired)
+    company_url: 'https://wenovator.com/'
     location: Tokyo, Japan
     date_start: '2020-09-16'
-    date_end: ''
+    date_end: '2021-06-30'
 
   - title: Section Manager Fraud Intelligence & Platforms, Security Architect
     company: Rakuten Mobile, Inc.
-    company_url: ''
+    company_url: 'https://network.mobile.rakuten.co.jp/'
     location: Tokyo, Japan
     date_start: '2019-07-01'
     date_end: '2020-09-15'
 
   - title: Junior Security Expert
     company: T-Systems International GmbH
-    company_url: ''
+    company_url: 'https://www.telekom.com/'
     location: Bonn, Germany
     date_start: '2016-11-01'
     date_end: '2019-06-30'
 
   - title: Application Design, Testing, and Development
     company: T-Systems International GmbH
-    company_url: ''
+    company_url: 'https://www.telekom.com/'
     location: Leipzig, Germany
     date_start: '2013-11-01'
     date_end: '2016-10-30'
