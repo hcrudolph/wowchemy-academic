@@ -6,7 +6,7 @@ title: Hans Christian Rudolph
 superuser: true
 
 # Role/position/tagline
-role: Senior Security Consultant
+role: Senior Consultant Cybersecurity
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,10 +19,10 @@ bio:
 # Interests to show in About widget
 interests:
 - Security Engineering
+- Usable Security
 - Security Automation
 - Formal Verification
 - Functional Programming
-- Computational Linguistics
 
 # Education to show in About widget
 education:
