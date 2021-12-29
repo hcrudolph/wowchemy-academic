@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'publication/master/bt_hcrudolph_2016-10-10.pdf'
+url_pdf: 'publication/bachelor/bt_hcrudolph_2016-10-10.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
