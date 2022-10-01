@@ -22,12 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Manager
+    company: Deloitte Tohmatsu Cyber LLC
+    company_url: 'https://www.deloitte.com/jp/en/dtcy'
+    location: Tokyo, Japan
+    date_start: '2022-09-01'
+    date_end: ''
+
   - title: Senior Consultant
     company: Deloitte Tohmatsu Cyber LLC
-    company_url: 'https://www2.deloitte.com/jp/en/pages/about-deloitte/topics/about-deloitte.html'
+    company_url: 'https://www.deloitte.com/jp/en/dtcy'
     location: Tokyo, Japan
     date_start: '2021-07-01'
-    date_end: ''
+    date_end: '2022-08-30'
+
   - title: Technical Director
     company: wenovator LLC (acquired)
     company_url: 'https://wenovator.com/'
