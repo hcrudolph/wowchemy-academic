@@ -6,12 +6,12 @@ title: Hans Christian Rudolph
 superuser: true
 
 # Role/position/tagline
-role: Senior Consultant Cybersecurity
+role: Manager, Cyber Advisory
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Deloitte Tohmatsu Cyber LLC
-  url: https://www2.deloitte.com/jp/en/pages/about-deloitte/topics/about-deloitte.html
+  url: https://www.deloitte.com/jp/en/dtcy
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -27,6 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Certified Information Systems Security Professional (CISSP)
+    institution: (ISC)2
+    year: 2022
   - course: M.Eng. IT Security and Forensics
     institution: Hochschule Wismar, University of Applied Sciences
     year: 2020
@@ -48,9 +51,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hcrudolph
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/hcrudolph
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -66,6 +66,6 @@ email: ""
 highlight_name: true
 ---
 
-Hans Christian Rudolph is a cyber security professional specializing in secure communications and related technologies. He is a former contributor to industry bodies such as 3GPP and GSMA and currently works as a Senior Consultant at Deloitte.
+Hans Christian Rudolph is a cyber security professional specializing in wireless communications, network security, and related technologies. He is a former contributor to industry bodies such as 3GPP and GSMA and currently works as a Manager, Cyber Advisory at Deloitte.
 
 Besides that, he blogs about <a href="https://hans-around.tokyo">life in Tokyo</a>.
