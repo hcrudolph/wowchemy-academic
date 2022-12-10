@@ -66,6 +66,6 @@ email: ""
 highlight_name: true
 ---
 
-Hans Christian Rudolph is a cyber security professional specializing in wireless communications, network security, and related technologies. He is a former contributor to industry bodies such as 3GPP and GSMA and currently works as a Manager, Cyber Advisory at Deloitte.
+Hans is a cyber security professional specializing in wireless communications, network security, and related technologies. He is a former contributor to industry bodies such as 3GPP and GSMA and currently works as a Manager, Cyber Advisory at Deloitte.
 
-Besides that, he blogs about <a href="https://hans-around.tokyo">life in Tokyo</a>.
+Besides that, he occasionally blogs about <a href="https://hans-around.tokyo">life in Japan</a>.
