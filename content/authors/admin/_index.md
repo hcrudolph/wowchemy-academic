@@ -18,11 +18,11 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Security Engineering
-- Usable Security
-- Security Automation
-- Formal Verification
-- Functional Programming
+- Technology standards
+- Usable security
+- Federated networks
+- Formal verification
+- Functional programming
 
 # Education to show in About widget
 education:

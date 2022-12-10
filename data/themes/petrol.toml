@@ -5,7 +5,7 @@ name = "petrol"
 light = true
 
 # Primary
-primary = "#0080af"
+primary = "#17a47f"
 
 # Menu
 menu_primary = "#fff"
