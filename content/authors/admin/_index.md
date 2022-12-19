@@ -48,6 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
+- icon: mastodon
+  icon_pack: fab
+  link: https://infosec.exchange/@hcrudolph
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/hcrudolph
@@ -66,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-Hans is a cyber security professional specializing in wireless communications, network security, and related technologies. He is a former contributor to industry bodies such as 3GPP and GSMA and currently works as a Manager, Cyber Advisory at Deloitte.
+Hans<a rel="me" href="https://infosec.exchange/@hcrudolph"></a> is a cyber security professional specializing in wireless communications, network security, and related technologies. He is a former contributor to industry bodies such as 3GPP and GSMA and currently works as a Manager, Cyber Advisory at Deloitte.
 
 Besides that, he occasionally blogs about <a href="https://hans-around.tokyo">life in Japan</a>.
